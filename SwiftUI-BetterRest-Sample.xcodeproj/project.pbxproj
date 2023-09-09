@@ -11,6 +11,7 @@
 		49075EEC2AAA17EC0062FB30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49075EEB2AAA17EC0062FB30 /* ContentView.swift */; };
 		49075EEE2AAA17F00062FB30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49075EED2AAA17F00062FB30 /* Assets.xcassets */; };
 		49075EF12AAA17F00062FB30 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49075EF02AAA17F00062FB30 /* Preview Assets.xcassets */; };
+		49A6D0932AAC82C5009B6A3E /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 49A6D0922AAC82C5009B6A3E /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		49075EEB2AAA17EC0062FB30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		49075EED2AAA17F00062FB30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49075EF02AAA17F00062FB30 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		49A6D0922AAC82C5009B6A3E /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				49075EE92AAA17EC0062FB30 /* SwiftUI_BetterRest_SampleApp.swift */,
 				49075EEB2AAA17EC0062FB30 /* ContentView.swift */,
+				49A6D0922AAC82C5009B6A3E /* SleepCalculator.mlmodel */,
 				49075EED2AAA17F00062FB30 /* Assets.xcassets */,
 				49075EEF2AAA17F00062FB30 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49A6D0932AAC82C5009B6A3E /* SleepCalculator.mlmodel in Sources */,
 				49075EEC2AAA17EC0062FB30 /* ContentView.swift in Sources */,
 				49075EEA2AAA17EC0062FB30 /* SwiftUI_BetterRest_SampleApp.swift in Sources */,
 			);
